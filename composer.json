@@ -1,0 +1,17 @@
+{
+    "name": "crist/framegarz",
+    "description": "microframework",
+    "type": "framework",
+    "require": {
+        "illuminate/database": "^8.42",
+        "phroute/phroute": "^2.1",
+        "jenssegers/blade": "^1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cgarz96",
+            "email": "cgarzon388@gmail.com"
+        }
+    ]
+}
